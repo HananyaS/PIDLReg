@@ -1,0 +1,20 @@
+python main_experimens.py --dataset Blood_transfusion --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Ecoli --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Arsenic_male_bladder --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Tokyo --run_grid False --run_ts False --full_test True
+# python main_experimens.py --dataset Spam --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Analcatdata_vineyard --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Diabetes --run_grid False --run_ts False --full_test True
+# python main_experimens.py --dataset Sonar --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Climate --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Breast --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Banknote --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Iris --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Wine --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Parkinson --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Accent --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Credit_g --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Credit_approval --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Wifi --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Analcatdata_germangss --run_grid False --run_ts False --full_test True
+python main_experimens.py --dataset Rmftsa_ctoarrivals --run_grid False --run_ts False --full_test True

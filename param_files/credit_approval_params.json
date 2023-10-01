@@ -1,0 +1,1 @@
+{"reg_type": "l2", "weight_type": "None", "alpha": 0.5, "use_layer_norm": false, "use_aug": true, "lr": 0.1, "batch_size": 32}

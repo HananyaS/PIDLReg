@@ -1,0 +1,2 @@
+dataset,n_epochs,reg_type,weight_type,alpha,lr,verbose,full_score,partial_score
+Iris,300,l1,None,0,0.001,False,0.9583333134651184,0.9583333134651184 +- 0.0

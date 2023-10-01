@@ -1,0 +1,8 @@
+python main_experimens.py --run_grid False --dataset Iris  --run_ts False --run_grid False --load_params True --full_test False
+python main_experimens.py --run_grid False --dataset Accent  --run_ts False --run_grid False --load_params True --full_test False
+python main_experimens.py --run_grid False --dataset Ecoli  --run_ts False --run_grid False --load_params True --full_test False
+python main_experimens.py --run_grid False --dataset Breast  --run_ts False --run_grid False --load_params True --full_test False
+python main_experimens.py --run_grid False --dataset Wifi  --run_ts False --run_grid False --load_params True --full_test False
+python main_experimens.py --run_grid False --dataset Parkinson  --run_ts False --run_grid False --load_params True --full_test False
+python main_experimens.py --run_grid False --dataset Wine  --run_ts False --run_grid False --load_params True --full_test False
+python main_experimens.py --run_grid False --dataset Banknote  --run_ts False --run_grid False --load_params True --full_test False

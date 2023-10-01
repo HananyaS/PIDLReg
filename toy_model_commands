@@ -1,0 +1,9 @@
+python main_experimens.py --dataset linear_toy --run_grid False --run_ts False --full_test True --N 100 --show_figs False --k 10
+python main_experimens.py --dataset linear_toy --run_grid False --run_ts False --full_test True --N 1000 --show_figs False --k 10
+python main_experimens.py --dataset linear_toy --run_grid False --run_ts False --full_test True --N 100 --show_figs False --k 100 
+python main_experimens.py --dataset linear_toy --run_grid False --run_ts False --full_test True --N 1000 --show_figs False --k 100 
+
+python main_experimens.py --dataset nl_toy --run_grid False --run_ts False --full_test True --N 100 --show_figs False --k 10 
+python main_experimens.py --dataset nl_toy --run_grid False --run_ts False --full_test True --N 1000 --show_figs False --k 10 
+python main_experimens.py --dataset nl_toy --run_grid False --run_ts False --full_test True --N 100 --show_figs False --k 100
+python main_experimens.py --dataset nl_toy --run_grid False --run_ts False --full_test True --N 1000 --show_figs False --k 100
